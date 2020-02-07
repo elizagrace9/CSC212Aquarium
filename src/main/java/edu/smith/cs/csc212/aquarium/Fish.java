@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 
 public class Fish {
-		//Every fish has an x which is an int
+		//Every fish has an x which is an int ivhvi
 		int x;
 		int y;
 		Color color;
@@ -42,7 +42,7 @@ public class Fish {
 			//facingRight, facingLeft, and facingRight
 			DrawFish.smallFacingLeft(g, 
 					this.color, this.x, this.y);
-			Draw
+			
 			
 		//if statements go here
 			
