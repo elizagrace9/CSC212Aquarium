@@ -26,6 +26,7 @@ public class Fish {
 			this.destY = 450;
 		}
 		
+		//Fix this, destX statement completely incomplete
 		public void swim() {
 			if (this.y < destY) {
 			this.y += 1;
@@ -41,6 +42,7 @@ public class Fish {
 			//facingRight, facingLeft, and facingRight
 			DrawFish.smallFacingLeft(g, 
 					this.color, this.x, this.y);
+			Draw
 			
 		//if statements go here
 			
