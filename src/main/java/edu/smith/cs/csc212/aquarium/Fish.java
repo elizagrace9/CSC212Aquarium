@@ -30,6 +30,8 @@ public class Fish {
 			if (this.y < destY) {
 			this.y += 1;
 			}
+			if (this.x < destX) {
+			}
 		}
 			
 		
